@@ -1,4 +1,4 @@
-# Comparative Analysis of Machine Learning Techniques for Hepatitis C Virus Infection Staging![image](https://github.com/Roopa2002/hcv/assets/121749709/34ea0f31-c6ac-4bcc-a087-95305d2fffc2)
+# Comparative Analysis of Machine Learning Techniques for Hepatitis C Virus Infection Staging
 
 
 For the given dataset, perform the data-preprocessing
